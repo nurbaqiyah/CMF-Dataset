@@ -13,5 +13,5 @@ REFERENCES
 2. Will update upon acceptance.
 
 -------------------------------------------------------------------------------------------------
-Authors: Nor Bakiah Abd. Warif, Ainuddin Wahid Abdul Wahab, Mohd. Yamani Idna Idris, Rosli Salleh
+Authors: Nor Bakiah Abd. Warif,
 -------------------------------------------------------------------------------------------------
