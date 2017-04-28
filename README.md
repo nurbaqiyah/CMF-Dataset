@@ -10,4 +10,4 @@ Please don't forget to include below references, if you use this dataset in your
 REFERENCES
 -------------------------------------------------------------------------------------------------
 1. Dong, J.,Wang,W.: CASIA tampered image detection evaluation (TIDE) database, v1.0 and v2.0 (2011). http://forensics.idealtest.org/
-2. N.B.A. Warif, A.W.A. Wahab, M.Y.I. Idris, R. Salleh, F. Othman, SIFT-Symmetry: A Robust Detection Method for Copy-Move Forgery with Reflection Attack, J. Vis. Commun. Image R. (2017).
+2. Warif, N. B. A., Wahab, A. W. A., Idris, M. Y. I., Salleh, R., & Othman, F. (2017). SIFT-Symmetry: A Robust Detection Method for Copy-Move Forgery with Reflection Attack. Journal of Visual Communication and Image Representation, 46, 219–232. http://doi.org/10.1016/j.jvcir.2017.04.004
